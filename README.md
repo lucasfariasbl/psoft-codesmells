@@ -13,3 +13,18 @@ Acontece quando uma única alteração conceitual no sistema exige que você fa�
 
 ### 3. Lazy Class/Function
 Refere-se a uma classe ou função que não faz o suficiente para justificar sua própria existência e manutenção.
+
+## Duplicate Code Links
+
+Código com o code smell: https://github.com/lucasfariasbl/Projeto_Absolute_Cinema  
+Código sem o code Smell: https://github.com/lucasfariasbl/Projeto_Absolute_Cinema/pull/1
+
+## Lazy Class/Function  
+
+Código com o code smell:  
+Código sem o code Smell:
+
+## Shotgun Surgery
+
+Código com o code smell:  
+Código sem o code Smell:
