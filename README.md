@@ -21,10 +21,10 @@ Código sem o code Smell: https://github.com/lucasfariasbl/Projeto_Absolute_Cine
 
 ## Lazy Class/Function  
 
-Código com o code smell:  
-Código sem o code Smell:
+Código com o code smell: https://github.com/GustavoMiguel-Dev/codeSmell_LazyClass_Function  
+Código sem o code Smell: https://github.com/GustavoMiguel-Dev/codeSmell_LazyClass_Function/pull/1
 
 ## Shotgun Surgery
 
-Código com o code smell:  
-Código sem o code Smell:
+Código com o code smell: https://github.com/lucasfariasbl/shotgunsurgery-codesmell  
+Código sem o code Smell: https://github.com/lucasfariasbl/shotgunsurgery-codesmell/pull/1
