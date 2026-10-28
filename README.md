@@ -1,12 +1,13 @@
 # Code Smells
 Atividade 4 do curso de Projeto de Software.
 
-Grupo:
-Ariany da Silva de Macena - Turma 2 
-Gabriel Paulo Ribeiro - Turma 2
-Gustavo Miguel de Lima Anisio - Turma 2
-Lucas Farias Bezerra de Lima - Turma 2
-Pedro Leal e Lima - Turma 1
+**Grupo:**
+
+- Ariany da Silva de Macena - Turma 2
+- Gabriel Paulo Ribeiro - Turma 2
+- Gustavo Miguel de Lima Anisio - Turma 2
+- Lucas Farias Bezerra de Lima - Turma 2
+- Pedro Leal e Lima - Turma 1
 
 ## Objetivo
 Identificar 3 tipos de code smells em projetos open-source ou desenvolver código Java que apresente esses problemas, realizando os refactorings necessários para corrigi-los.
